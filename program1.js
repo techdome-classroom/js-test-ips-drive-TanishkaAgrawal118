@@ -6,8 +6,6 @@ while(numSet.has(smallestMissing)){
 }
 return smallestMissing;
 
-    // Implement the function smallest_missing_positive_integer
-
   
   }
   
